@@ -10,7 +10,7 @@ citation: 'Shastry, A. K., Bhargavapuri, M. T., Kothari, M., & Sahoo, S. R. (201
 ---
 Quadrotors have enormous application in the area of automated delivery systems. In such scenarios, payload can vary with time, and cannot be tackled by traditional controllers. This work presents a nonlinear adaptive control design of a variable-pitch quadrotor. Sudden changes in mass and uncertainty in the rotational inertia of the quadrotor emphasizes the necessity for an adaptive control technique. Quadrotors with variable-pitch propellers are chosen as they provide higher rate of change of thrust and inverted flight capabilities. MATLAB environment is utilized to show a drone-delivery simulation along with trajectory tracking and inverted flight.
 
-Recommended citation: A. K. Shastry, M. T. Bhargavapuri, M. Kothari and S. R. Sahoo, "Quaternion based adaptive control for package delivery using variable-pitch quadrotors," 2018 Indian Control Conference (ICC), Kanpur, 2018, pp. 340-345.
+Recommended citation: A. K. Shastry, M. T. Bhargavapuri, M. Kothari and S. R. Sahoo, "Quaternion based adaptive control for package delivery using variable-pitch quadrotors," in Proceedings of the 2018 IEEE Indian Control Conference (ICC), Kanpur, 2018, pp. 340-345.
 doi: 10.1109/INDIANCC.2018.8308002
 URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8308002&isnumber=8307898
 .
