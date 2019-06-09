@@ -8,4 +8,7 @@ date: 2014-07-28
 location: "Kanpur, India"
 ---
 
+Undergraduate controls lab (EE380)
+======
 Teaching assistant for undergraduate controls lab, EE380. From July, 2014 to November, 2014.
+

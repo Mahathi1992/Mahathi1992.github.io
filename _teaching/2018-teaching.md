@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistantship"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Undergraduate and graduate courses"
+permalink: /teaching/2018-spring-teaching
+venue: "L11, LHC, IIT Kanpur"
+date: 2018-01-01
+location: "Kanpur, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Laboratory development (DiSCon Lab) and Nonliear Systems-1 (EE651)
 ======
+Development of the DiSCon Laboratory with Dr. S. R. Sahoo.
 
-Heading 2
-======
-
-Heading 3
-======
+Teaching assistant for graduate course on nonlinear systems, EE651. From July, 2018 to November, 2018.

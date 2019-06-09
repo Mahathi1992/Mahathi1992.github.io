@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistantship"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Undergraduate and graduate courses"
+permalink: /teaching/2016-spring-teaching
+venue: "L18, LHC, IIT Kanpur"
+date: 2016-01-01
+location: "Kanpur, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Basic controls (EE250) and Basics of Modern Control (EE650)
 ======
+Teaching assistant for undergraduate controls course, EE250. From Jan, 2016 to April, 2016.
 
-Heading 2
-======
-
-Heading 3
-======
+Teaching assistant for graduate course on modern control theory, EE650. From July, 2016 to November, 2016.
