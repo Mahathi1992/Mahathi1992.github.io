@@ -8,7 +8,7 @@ date: 2017-01-01
 location: "Kanpur, India"
 ---
 
-Basic controls (EE250) and Basics of Modern Control (EE650)
+Basic controls (EE250) and UG controls lab (EE380)
 ======
 Teaching assistant for undergraduate controls course, EE250. From Jan, 2017 to April, 2017.
 
