@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.E. in Electronics and Instrumentation, SJCE Mysore, 2014
-* M.S. in Control Theory and Applications, Indian Institute of Technology Kanpur, 2019
+* M.Tech. in Control Theory and Applications, Indian Institute of Technology Kanpur, 2019
 * Ph.D in Control Theory and Applications, Indian Institute of Technology Kanpur, 2020 (expected)
 
 Work experience
@@ -53,3 +53,11 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Accomplishments
+======
+* Ranked 6th in class during my undergraduate studies
+* Obtained a national rank of 519 in GATE 2014 (Instrumentation Engineering)
+* Second place in the All India Radio Music competition (Carnatic Instrumental, Violin), 2011
+* B-high grade artist in All India Radio (Carnatic Instrumental, Violin), 2015
+* Won the bronze while representing the institute (basketball) in the 2017 Inter IIT Sports meet organised by IIT Madras
