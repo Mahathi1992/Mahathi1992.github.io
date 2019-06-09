@@ -1,9 +1,10 @@
 ---
 title: "Vision-based autonomous tracking and landing of a fully-actuated rotorcraft"
 collection: publications
-permalink: /publication/2018-cep-land
+permalink: /publication/2019-cep-land
 excerpt: 'Vision-based autonomous tracking and landing of a fully-actuated rotorcraft'
 date: 2019-06-02
+venue: Control Engineering Practice, vol. 89
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0967066118306415'
 citation: 'Bhargavapuri, M., Shastry, A.K., Sinha, H., Sahoo, S.R. and Kothari, M., (2019, August). &quot;Vision-based autonomous tracking and landing of a fully-actuated rotorcraft.&quot; <i>  Control Engineering Practice (CEP) </i>. vol. 89, (pp. 113-129), doi: 10.1016/j.conengprac.2019.05.015'
 ---
