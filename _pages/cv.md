@@ -70,6 +70,8 @@ Accomplishments
 * Ranked 6th in class during my undergraduate studies
 * Obtained a national rank of 519 in GATE 2014 (Instrumentation Engineering)
 * Second place in the All India Radio Music competition (Carnatic Instrumental, Violin), 2011
-* B-high grade artist in All India Radio (Carnatic Instrumental, Violin), 2015
+* B-high grade artist in All India Radio (Carnatic Instrumental, Violin), 2015-present
 * Won the bronze medal while representing the institute (basketball) in the 2017 Inter IIT Sports meet organised by IIT Madras
 * Outstanding teaching assistantship (TA) award from IIT Kanpur for the graduate course on Nonlinear Systems (EE651) during Fall 2018-19
+
+

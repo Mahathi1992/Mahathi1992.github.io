@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistantship"
+title: "Teaching Assistantship, 2019"
 collection: teaching
 type: "Laboratory development"
 permalink: /teaching/2019-spring-teaching

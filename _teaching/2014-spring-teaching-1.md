@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistantship"
+title: "Teaching Assistantship, 2014"
 collection: teaching
 type: "Undergraduate Laboratory"
 permalink: /teaching/2014-spring-teaching

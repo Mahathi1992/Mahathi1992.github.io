@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistantship"
+title: "Teaching Assistantship, 2018"
 collection: teaching
 type: "Graduate course and lab dev"
 permalink: /teaching/2018-spring-teaching
