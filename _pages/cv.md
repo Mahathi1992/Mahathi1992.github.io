@@ -45,12 +45,10 @@ Undergraduate projects
 * Spring, 2013: Biomedical instrumentation project
   * Instrumentation and Applied Physics, Indian Institute of Science, Bangalore
   * Main theme of the project: Non-contact apnoea detection based on infrared-based proximity sensors
-  * Supervisor: Prof. Mallikarjunaswamy. M. S.
 
 * Spring, 2014: Final year project
   * SJCE, Mysore
   * Main theme of the project: Piezoelectric sensor based renewable energy generation
-  * Supervisor: Prof. Nanda. S.  
 
 <!--Talks
 ======
@@ -65,7 +63,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Accomplishments
+Other accomplishments
 ======
 * Ranked 6th in class during my undergraduate studies
 * Obtained a national rank of 519 in GATE 2014 (Instrumentation Engineering)
