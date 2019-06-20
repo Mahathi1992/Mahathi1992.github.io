@@ -15,5 +15,6 @@ author_profile: true
 {% endfor %}
 
 ---
+layout: archive
 title: "Ongoing Projects"
 ---
