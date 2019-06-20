@@ -1,9 +1,3 @@
-Ongoing Projects
-=====
-
-
-
-
 ---
 layout: archive
 title: "Publications"
