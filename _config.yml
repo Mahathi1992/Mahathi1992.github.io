@@ -301,4 +301,4 @@ compress_html:
   ignore:
     envs: development
 
-theme: prologue
+theme: jekyll-theme-prologue
