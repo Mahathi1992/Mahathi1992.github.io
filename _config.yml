@@ -301,4 +301,4 @@ compress_html:
   ignore:
     envs: development
 
-theme: jekyll-theme-prologue
+theme: jekyll-theme-minimal
