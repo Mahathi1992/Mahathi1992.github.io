@@ -14,7 +14,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
----
-layout: archive
-title: "Ongoing Projects"
----
+
+Ongoing Projects
+=====
