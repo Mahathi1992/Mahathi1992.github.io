@@ -18,13 +18,13 @@ Ongoing projects
 	
 	_Abstract_- The topological obstructions on the attitude space of a rigid body make global asymptotic stabilization impossible using continuous state-feedback. This paper presents novel algorithms to overcome such topological limitations and achieve arbitrary attitude maneuvers with only continuous, memory-less state-feedback. We first present nonlinear control laws using both rotation matrices and quaternions that give rise to one almost globally asymptotically stabilizable equilibrium along with a nowhere dense set of unstable equilibria. The unstable equilibria are uniquely identified in the attitude error space. Pseudo-targets are then designed to make the controller believe that the attitude error is within the region of attraction of the stable equilibrium. Further, the pseudo-target ensures that maximum control action is provided to push the closed-loop system toward the stable equilibrium. The proposed algorithms are validated using both numerical simulations and experiments to show their simplicity and effectiveness.
 {: .alert .alert-info .text-justify}
-<!-- blank line -->
+	<!-- blank line -->
 	<figure class="video_container">
 		<video controls="true" allowfullscreen="true" poster="http://mahathi1992.github.io/files/thumb_pitchflip.png">
     			<source src="http://mahathi1992.github.io/files/PseudoT.mp4" type="video/mp4"> 
 		</video>
 	</figure>
-<!-- blank line -->
+	<!-- blank line -->
 
 <!-- blank line -->
 ----
