@@ -20,8 +20,8 @@ Ongoing projects
 {: .alert .alert-info .text-justify}
 <!-- blank line -->
 	<figure class="video_container">
-		<video controls="true" allowfullscreen="true" poster="http://mahathi1992.github.io/files/thumb_pitchflip.png">
-    			<source width="560" height="315" src="http://mahathi1992.github.io/files/PseudoT.mp4" type="video/mp4"> 
+		<video style="width:70%" controls="true" allowfullscreen="true" poster="http://mahathi1992.github.io/files/thumb_pitchflip.png">
+    			<source src="http://mahathi1992.github.io/files/PseudoT.mp4" type="video/mp4"> 
 		</video>
 	</figure>
 <!-- blank line -->
