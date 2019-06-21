@@ -14,6 +14,15 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 Ongoing projects
 =====
 
+* Bhargavapuri, M., Sahoo, S.R. and Kothari, M., (2018) "Global Attitude Stabilization using Pseudo-Targets", _arXiv preprint arXiv:1811.01924_
+	<!-- blank line -->
+		<figure class="video_container">
+			<video controls="true" allowfullscreen="true" poster="http://mahathi1992.github.io/files/thumb_pitchflip.png">
+    				<source src="http://mahathi1992.github.io/files/PseudoT.mp4" type="video/mp4">
+  			</video>
+		</figure>
+	<!-- blank line -->
+
 <!-- blank line -->
 ----
 <!-- blank line -->
