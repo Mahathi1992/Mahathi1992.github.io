@@ -21,7 +21,7 @@ Ongoing projects
 Publications
 =====
 
-2019
+## 2019
 
 * Bhargavapuri, M., Shastry, A.K., Sinha, H., Sahoo, S.R. and Kothari, M., (2019, August) ``Vision-based autonomous tracking and landing of a fully-actuated rotorcraft", _Control Engineering Practice (CEP)_, vol. 89, (pp. 113-129), doi: 10.1016/j.conengprac.2019.05.015
 <!-- blank line -->
