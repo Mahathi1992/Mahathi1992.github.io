@@ -20,7 +20,7 @@ Ongoing projects
 
 	<!-- blank line -->
 	<figure class="video_container">
-		<video style="width 70%" controls="true" allowfullscreen="true" poster="http://mahathi1992.github.io/files/thumb_pitchflip.png">
+		<video style="width:40%" controls="true" allowfullscreen="true" poster="http://mahathi1992.github.io/files/thumb_pitchflip.png">
     			<source src="http://mahathi1992.github.io/files/PseudoT.mp4" type="video/mp4"> 
 		</video>
 	</figure>
