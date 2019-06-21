@@ -20,7 +20,7 @@ Ongoing projects
 
 	<!-- blank line -->
 	<figure class="video_container">
-		<video style="width:65%" allowautoplay="true" allowfullscreen="true" poster="http://mahathi1992.github.io/files/thumb_pitchflip.png">
+		<video style="width:65%" controls="true" allowfullscreen="true" poster="http://mahathi1992.github.io/files/thumb_pitchflip.png">
     			<source src="http://mahathi1992.github.io/files/PseudoT.mp4" type="video/mp4"> 
 		</video>
 	</figure>
@@ -34,7 +34,7 @@ Publications
 =====
 
 ## 2019
-
+`
 * Bhargavapuri, M., Shastry, A.K., Sinha, H., Sahoo, S.R. and Kothari, M., (2019, August), "Vision-based autonomous tracking and landing of a fully-actuated rotorcraft", _Control Engineering Practice (CEP)_, vol. 89, (pp. 113-129), doi: 10.1016/j.conengprac.2019.05.015
 
 	<!-- blank line -->
