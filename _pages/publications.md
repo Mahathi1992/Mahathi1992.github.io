@@ -44,7 +44,6 @@ doi: 10.23919/ACC.2018.8431885
 
 	**Note:** This work has been updated in my [masters thesis](http://mahathi1992.github.io/files/mtech_thesis.pdf)
 	{: .note}
-
 <!-- blank line -->
 	<figure class="video_container">
 		<iframe src="https://www.youtube.com/embed/UYpmwrI-T0c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
