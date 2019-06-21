@@ -39,7 +39,7 @@ Publications
 
 ## 2018
 
-* Bhargavapuri, M., Sahoo, S. R., Kothari, M., and Abhishek, "Robust Attitude Tracking in the Presence of Parameter Uncertainty for a Variable-Pitch Quadrotor," in Proceedings of the 2018 IEEE Annual American Control Conference (ACC), Milwaukee, WI, 2018, pp. 3454-3459.
+* Bhargavapuri, M., Sahoo, S. R., Kothari, M., and Abhishek, "Robust Attitude Tracking in the Presence of Parameter Uncertainty for a Variable-Pitch Quadrotor," _in Proceedings of the 2018 IEEE Annual American Control Conference (ACC)_, Milwaukee, WI, 2018, pp. 3454-3459.
 doi: 10.23919/ACC.2018.8431885
 
 	**Note:** This work has been updated in my [masters thesis](http://mahathi1992.github.io/files/mtech_thesis.pdf)
@@ -47,6 +47,14 @@ doi: 10.23919/ACC.2018.8431885
 <!-- blank line -->
 	<figure class="video_container">
 		<iframe src="https://www.youtube.com/embed/UYpmwrI-T0c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</figure>
+<!-- blank line -->
+
+* Bhargavapuri, M., Patrikar, J., Sahoo, S. R., and Kothari, M., "A Low-Cost Tilt-Augmented Quadrotor Helicopter: Modeling and Control," _in Proceedings of the 2018 International Conference on Unmanned Aircraft Systems (ICUAS)_, Dallas, TX, 2018, pp. 186-194.
+doi: 10.1109/ICUAS.2018.8453376
+<!-- blank line -->
+	<figure class="video_container">
+		<iframe src="https://www.youtube.com/embed/AbwPkl9ihV8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</figure>
 <!-- blank line -->
 
