@@ -18,13 +18,11 @@ Ongoing projects
 	
 	_Abstract_- The topological obstructions on the attitude space of a rigid body make global asymptotic stabilization impossible using continuous state-feedback. This paper presents novel algorithms to overcome such topological limitations and achieve arbitrary attitude maneuvers with only continuous, memory-less state-feedback. We first present nonlinear control laws using both rotation matrices and quaternions that give rise to one almost globally asymptotically stabilizable equilibrium along with a nowhere dense set of unstable equilibria. The unstable equilibria are uniquely identified in the attitude error space. Pseudo-targets are then designed to make the controller believe that the attitude error is within the region of attraction of the stable equilibrium. Further, the pseudo-target ensures that maximum control action is provided to push the closed-loop system toward the stable equilibrium. The proposed algorithms are validated using both numerical simulations and experiments to show their simplicity and effectiveness.
 {: .alert .alert-info .text-justify}
-	<!-- blank line -->
 	<figure class="video_container">
 		<video controls="true" allowfullscreen="true" poster="http://mahathi1992.github.io/files/thumb_pitchflip.png">
     			<source src="http://mahathi1992.github.io/files/PseudoT.mp4" type="video/mp4"> 
 		</video>
 	</figure>
-	<!-- blank line -->
 
 <!-- blank line -->
 ----
@@ -39,7 +37,7 @@ Publications
 {: .alert .alert-info .text-justify}
 <!-- blank line -->
 	<figure class="video_container">
-  		<iframe width="460" height="255" src="https://www.youtube.com/embed/Czgc6OZPnDw" frameborder="0" allowfullscreen="true"> </iframe>
+  		<iframe src="https://www.youtube.com/embed/Czgc6OZPnDw" frameborder="0" allowfullscreen="true"> </iframe>
 	</figure>
 <!-- blank line -->
 
@@ -47,7 +45,7 @@ Publications
 {: .alert .alert-info .text-justify}
 <!-- blank line -->
 	<figure class="video_container">
-		<iframe width="460" height="255" src="https://www.youtube.com/embed/jKorhMlJLLo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+		<iframe src="https://www.youtube.com/embed/jKorhMlJLLo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 	</figure>
 <!-- blank line -->
 
@@ -61,7 +59,7 @@ doi: 10.23919/ACC.2018.8431885
 {: .alert .alert-info .text-justify}
 <!-- blank line -->
 	<figure class="video_container">
-		<iframe width="460" height="255" src="https://www.youtube.com/embed/UYpmwrI-T0c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<iframe src="https://www.youtube.com/embed/UYpmwrI-T0c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</figure>
 <!-- blank line -->
 
@@ -70,7 +68,7 @@ doi: 10.1109/ICUAS.2018.8453376
 {: .alert .alert-info .text-justify}
 <!-- blank line -->
 	<figure class="video_container">
-		<iframe width="460" height="255" src="https://www.youtube.com/embed/AbwPkl9ihV8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<iframe src="https://www.youtube.com/embed/AbwPkl9ihV8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</figure>
 <!-- blank line -->
 
