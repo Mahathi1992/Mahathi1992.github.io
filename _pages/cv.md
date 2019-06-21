@@ -35,6 +35,11 @@ Publications
 
 Work experience
 ======
+* Jan., 2019 - Present: Co-founder & Control Engineer
+  * EndureAir Systems, Kanpur, India
+  * Co-developer of NAAVIK autopilot for unmanned helicopters
+  * Design, development, and testing of novel VTOL UAVs
+
 * Summer, 2013: Intern
   * Instrumentation and Applied Physics, Indian Institute of Science, Bangalore
   * Duties included: Improving SNR of an Atomic Force Microscope
