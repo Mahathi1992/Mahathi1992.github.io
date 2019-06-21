@@ -20,7 +20,7 @@ Ongoing projects
 
 	<!-- blank line -->
 	<figure class="video_container">
-		<video style="width:65%" controls="true" allowfullscreen="true" poster="http://mahathi1992.github.io/files/thumb_pitchflip.png">
+		<video style="width:70%" controls="true" allowfullscreen="true" poster="http://mahathi1992.github.io/files/thumb_pitchflip.png">
     			<source src="http://mahathi1992.github.io/files/PseudoT.mp4" type="video/mp4"> 
 		</video>
 	</figure>
@@ -39,7 +39,7 @@ Publications
 
 	<!-- blank line -->
 	<figure class="video_container">
-  		<iframe width="360" height="155" src="https://www.youtube.com/embed/Czgc6OZPnDw" frameborder="0" allowfullscreen="true"> </iframe>
+  		<iframe width="190" height="155" src="https://www.youtube.com/embed/Czgc6OZPnDw" frameborder="0" allowfullscreen="true"> </iframe>
 	</figure>
 	<!-- blank line -->
 
@@ -47,7 +47,7 @@ Publications
 
 	<!-- blank line -->
 	<figure class="video_container">
-		<iframe width="360" height="155" src="https://www.youtube.com/embed/jKorhMlJLLo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+		<iframe width="190" height="155" src="https://www.youtube.com/embed/jKorhMlJLLo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 	</figure>
 	<!-- blank line -->
 
@@ -61,7 +61,7 @@ doi: 10.23919/ACC.2018.8431885
 
 	<!-- blank line -->
 	<figure class="video_container">
-		<iframe width="360" height="155" src="https://www.youtube.com/embed/UYpmwrI-T0c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<iframe width="190" height="155" src="https://www.youtube.com/embed/UYpmwrI-T0c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</figure>
 	<!-- blank line -->
 
@@ -70,7 +70,7 @@ doi: 10.1109/ICUAS.2018.8453376
 
 	<!-- blank line -->
 	<figure class="video_container">
-		<iframe width="360" height="155" src="https://www.youtube.com/embed/AbwPkl9ihV8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<iframe width="190" height="155" src="https://www.youtube.com/embed/AbwPkl9ihV8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</figure>
 	<!-- blank line -->
 
