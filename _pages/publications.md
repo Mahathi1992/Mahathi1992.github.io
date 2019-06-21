@@ -39,6 +39,7 @@ Publications
 
 * Bhargavapuri, M., Sahoo, S. R., Kothari, M., and Abhishek, "Robust Attitude Tracking in the Presence of Parameter Uncertainty for a Variable-Pitch Quadrotor," in Proceedings of the 2018 IEEE Annual American Control Conference (ACC), Milwaukee, WI, 2018, pp. 3454-3459.
 doi: 10.23919/ACC.2018.8431885
+
 	**Note:** This work has been updated in my [masters thesis](http://mahathi1992.github.io/files/mtech_thesis.pdf)
 	{: .note}
 
