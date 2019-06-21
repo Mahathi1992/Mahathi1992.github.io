@@ -22,7 +22,6 @@ Ongoing projects
 		<figure class="video_container">
 			<video controls="true" allowfullscreen="true" poster="http://mahathi1992.github.io/files/thumb_pitchflip.png">
     				<iframe width="560" height="315" src="http://mahathi1992.github.io/files/PseudoT.mp4" type="video/mp4" frameborder="0" allowfullscreen="true"> </iframe>
-  			</video>
 		</figure>
 	<!-- blank line -->
 
