@@ -79,6 +79,6 @@ Other accomplishments
 * Finished fourth in the 2017 Inter IIT Cultural Meet in the singing event as well as overall
 * Outstanding teaching assistantship (TA) award from IIT Kanpur for the graduate course on Nonlinear Systems (EE651) during Fall 2018-19
 
-A pdf version of this CV is available [here](http://mahathi1992.github.io/files/Awesome_CV.pdf).
+**_A pdf version of this CV is available [here](http://mahathi1992.github.io/files/Awesome_CV.pdf)._**
 
 
