@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-A pdf version of this CV is available [here](http://mahathi1992.github.io/files/Awesome_CV.pdf).
-
 Education
 ======
 * B.E. in Electronics and Instrumentation, SJCE Mysore, 2014
@@ -77,6 +75,10 @@ Other accomplishments
 * Second place in the All India Radio Music competition (Carnatic Instrumental, Violin), 2011
 * B-high grade artist in All India Radio (Carnatic Instrumental, Violin), 2015-present
 * Won the bronze medal while representing the institute (basketball) in the 2017 Inter IIT Sports meet organised by IIT Madras
+* Won the bronze medal in the 2017 Inter IIT TechMeet for Warehouse Inventory Management using Drones
+* Finished fourth in the 2017 Inter IIT Cultural Meet in the singing event as well as overall
 * Outstanding teaching assistantship (TA) award from IIT Kanpur for the graduate course on Nonlinear Systems (EE651) during Fall 2018-19
+
+A pdf version of this CV is available [here](http://mahathi1992.github.io/files/Awesome_CV.pdf).
 
 
