@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * B.E. in Electronics and Instrumentation, SJCE Mysore, 2014
-* M.Tech. in Control Theory and Applications, Indian Institute of Technology Kanpur, 2019
-* Ph.D in Control Theory and Applications, Indian Institute of Technology Kanpur, 2020 (expected)
+* M.Tech. in Applied Control Theory, Indian Institute of Technology Kanpur, 2019
+* Ph.D in Applied Control Theory, Indian Institute of Technology Kanpur, 2020 (expected)
   
 Skills
 ======
