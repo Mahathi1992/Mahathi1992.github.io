@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A pdf version of this CV is available [here](http://mahathi1992.github.io/files/Awesome-CV.pdf).
+A pdf version of this CV is available [here](http://mahathi1992.github.io/files/Awesome_CV.pdf).
 
 Education
 ======
