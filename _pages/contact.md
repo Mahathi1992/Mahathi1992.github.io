@@ -4,6 +4,6 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Swarm Lab, Helicopter Building, Academic Area, Indian Institute of Technology Kanpur, Kanpur 208016, Uttar Pradesh, India<br>
-Email: mahathi [at] iitk.ac.in<br>
+2311, Building 41/300, LRT 15, University of Bundeswehr Munich, Germany<br>
+Email: mahathi.bhargavapuri [at] unibw.de<br>
 Phone: +91 9611145715
