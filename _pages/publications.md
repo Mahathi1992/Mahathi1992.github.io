@@ -38,7 +38,7 @@ Publications
 
 ## 2019
 
-* [[Pre-print]](http://mahathi1992.github.io/files/varPitch_preprint.pdf) Bhargavapuri, M., Shastry, A.K., Sinha, H., Sahoo, S.R. and Kothari, M., (2019, August), "Vision-based autonomous tracking and landing of a fully-actuated rotorcraft", _Control Engineering Practice (CEP)_, vol. 89, pp. 113-129, doi: 10.1016/j.conengprac.2019.05.015
+* [[Pre-print]](http://mahathi1992.github.io/files/tiltCEP_preprint.pdf) Bhargavapuri, M., Shastry, A.K., Sinha, H., Sahoo, S.R. and Kothari, M., (2019, August), "Vision-based autonomous tracking and landing of a fully-actuated rotorcraft", _Control Engineering Practice (CEP)_, vol. 89, pp. 113-129, doi: 10.1016/j.conengprac.2019.05.015
 
 	<!-- blank line -->
 	<figure class="video_container">
@@ -46,7 +46,7 @@ Publications
 	</figure>
 	<!-- blank line -->
 
-* [[Pre-print]](http://mahathi1992.github.io/files/tiltCEP_preprint.pdf) Bhargavapuri, M., Sahoo, S. R., Kothari, M., and Abhishek (2019, June), "Robust nonlinear control of a variable-pitch quadrotor with the flip maneuver" _Control Engineering Practice (CEP)_, vol. 87, pp. 26-42, doi: 10.1016/j.conengprac.2019.03.012
+* [[Pre-print]](http://mahathi1992.github.io/files/varPitchCEP_preprint.pdf) Bhargavapuri, M., Sahoo, S. R., Kothari, M., and Abhishek (2019, June), "Robust nonlinear control of a variable-pitch quadrotor with the flip maneuver" _Control Engineering Practice (CEP)_, vol. 87, pp. 26-42, doi: 10.1016/j.conengprac.2019.03.012
 
 	<!-- blank line -->
 	<figure class="video_container">
