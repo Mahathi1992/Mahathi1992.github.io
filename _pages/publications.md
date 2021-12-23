@@ -34,7 +34,7 @@ Publications
 =====
 ## 2020
 
-* [Pre-print](https://arxiv.org/pdf/2006.15686.pdf) Kumar, R., Bhargavapuri, M., Deshpande, A. M, Sridhar, S., Cohen, K, and Kumar, M., "Quaternion Feedback Based Autonomous Control of a Quadcopter UAV with Thrust Vectoring Rotors," _in Proceedings of the 2020 American Control Conference (ACC)_, pp. 3828-3833, doi: 10.23919/ACC45564.2020.9147794
+* [[Pre-print]](https://arxiv.org/pdf/2006.15686.pdf) Kumar, R., Bhargavapuri, M., Deshpande, A. M, Sridhar, S., Cohen, K, and Kumar, M., "Quaternion Feedback Based Autonomous Control of a Quadcopter UAV with Thrust Vectoring Rotors," _in Proceedings of the 2020 American Control Conference (ACC)_, pp. 3828-3833, doi: 10.23919/ACC45564.2020.9147794
 
 ## 2019
 
