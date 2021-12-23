@@ -11,7 +11,7 @@ You can also find the following articles on [my Google Scholar profile](https://
 ----
 <!-- blank line -->
 
-Ongoing projects
+Accepted/Under review
 =====
 
 * Bhargavapuri, M., Sahoo, S.R. and Kothari, M., (2018) "Global Attitude Stabilization using Pseudo-Targets", _arXiv preprint [arXiv:1811.01924](https://arxiv.org/pdf/1811.01924.pdf)_
@@ -32,9 +32,14 @@ Ongoing projects
 
 Publications
 =====
+## 2020
+
+* Kumar, R., Bhargavapuri, M., Deshpande, A. M, Sridhar, S., Cohen, K, and Kumar, M., "Quaternion Feedback Based Autonomous Control of a Quadcopter UAV with Thrust Vectoring Rotors," _in Proceedings of the 2020 American Control Conference (ACC)_, pp. 3828-3833, doi: 10.23919/ACC45564.2020.9147794
+
+[arxiv pre-print](https://arxiv.org/pdf/2006.15686.pdf)
 
 ## 2019
-`
+
 * Bhargavapuri, M., Shastry, A.K., Sinha, H., Sahoo, S.R. and Kothari, M., (2019, August), "Vision-based autonomous tracking and landing of a fully-actuated rotorcraft", _Control Engineering Practice (CEP)_, vol. 89, pp. 113-129, doi: 10.1016/j.conengprac.2019.05.015
 
 	<!-- blank line -->
