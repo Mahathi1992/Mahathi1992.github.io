@@ -21,13 +21,13 @@ Accepted/Under review
 Publications
 =====
 
-##2022
+## 2022
 
 * Bhargavapuri, M., Sahoo, S.R. and Kothari, M., "PAGAL: Pseudo Attitude error Generation ALgorithm for attitude stabilization from arbitrary initial states", _in Proceedings of the 2022 IEEE Conference on Control Technology and Applications (CCTA)_, Trieste, Italy, 2022, pp. 185-190, doi: 10.1109/CCTA49430.2022.9966010
 	
 	<!-- blank line -->
 	<figure class="video_container">
-		<video style="width:100%" controls="true" allowfullscreen="true" poster="http://mahathi1992.github.io/files/thumb_pitchflip.png">
+		<video style="width:60%" controls="true" allowfullscreen="true" poster="http://mahathi1992.github.io/files/thumb_pitchflip.png">
     			<source src="http://mahathi1992.github.io/files/PseudoT.mp4" type="video/mp4"> 
 		</video>
 	</figure>
@@ -54,7 +54,7 @@ Publications
 
 	<!-- blank line -->
 	<figure class="video_container">
-		<iframe width="460" height="255" src="https://www.youtube.com/embed/jKorhMlJLLo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+		<iframe width="260" height="125" src="https://www.youtube.com/embed/jKorhMlJLLo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 	</figure>
 	<!-- blank line -->
 
@@ -67,7 +67,7 @@ Publications
 
 	<!-- blank line -->
 	<figure class="video_container">
-		<iframe width="460" height="255" src="https://www.youtube.com/embed/UYpmwrI-T0c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<iframe width="260" height="125" src="https://www.youtube.com/embed/UYpmwrI-T0c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</figure>
 	<!-- blank line -->
 
@@ -76,7 +76,7 @@ doi: 10.1109/ICUAS.2018.8453376
 
 	<!-- blank line -->
 	<figure class="video_container">
-		<iframe width="460" height="255" src="https://www.youtube.com/embed/AbwPkl9ihV8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<iframe width="260" height="125" src="https://www.youtube.com/embed/AbwPkl9ihV8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</figure>
 	<!-- blank line -->
 
