@@ -57,13 +57,13 @@ Work experience
 
 Undergraduate projects
 ======
-* Spring, 2013: Biomedical instrumentation project
-  * SJCE, Mysore.
-  * Main theme of the project: Non-contact apnoea detection based on infrared-based proximity sensors.
-
 * Spring, 2014: Final year project
   * SJCE, Mysore
   * Main theme of the project: Piezoelectric sensor based renewable energy generation
+
+* Spring, 2013: Biomedical instrumentation project
+  * SJCE, Mysore.
+  * Main theme of the project: Non-contact apnoea detection based on infrared-based proximity sensors.
 
 <!--Talks
 ======
