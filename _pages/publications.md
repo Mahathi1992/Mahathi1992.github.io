@@ -46,7 +46,7 @@ Publications
 
 	<!-- blank line -->
 	<figure class="video_container">
-  		<iframe width="460" height="255" src="https://www.youtube.com/embed/Czgc6OZPnDw" frameborder="0" allowfullscreen="true"> </iframe>
+  		<iframe width="260" height="125" src="https://www.youtube.com/embed/Czgc6OZPnDw" frameborder="0" allowfullscreen="true"> </iframe>
 	</figure>
 	<!-- blank line -->
 
@@ -54,7 +54,7 @@ Publications
 
 	<!-- blank line -->
 	<figure class="video_container">
-		<iframe width="260" height="125" src="https://www.youtube.com/embed/jKorhMlJLLo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+		<iframe width="460" height="255" src="https://www.youtube.com/embed/jKorhMlJLLo" frameborder="0" allowfullscreen="true"> </iframe>
 	</figure>
 	<!-- blank line -->
 
