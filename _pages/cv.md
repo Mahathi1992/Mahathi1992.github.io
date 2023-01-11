@@ -13,7 +13,7 @@ Education
 ======
 * B.E. in Electronics and Instrumentation, SJCE Mysore, 2014
 * M.Tech. in Applied Control Theory, Indian Institute of Technology Kanpur, 2019
-* Ph.D in Applied Control Theory, Indian Institute of Technology Kanpur, 2020 (expected)
+* Ph.D in Applied Control Theory, Indian Institute of Technology Kanpur, 2020
   
 Skills
 ======
@@ -35,21 +35,31 @@ Publications
 
 Work experience
 ======
-* Jan., 2019 - Present: Co-founder & Control Engineer
-  * EndureAir Systems, Kanpur, India
-  * Co-developer of NAAVIK autopilot for unmanned helicopters
-  * Design, development, and testing of novel VTOL UAVs
+* Jan., 2021 - Present: Research Associate (E-14 category)
+  * University of the Federal Armed Forces (Bundeswehr), Munich, Germany.
+  * Research and project management responsibilities.
+  * Research focus on formal methods, reachability analysis, and safety for drones. 
+
+* Jan., 2020 - Dec, 2021: Control Systems Team Lead
+  * ZMotion Autonomous Systems, Bengaluru, India.
+  * Co-developer of propietary autopilot inclduing sensor fusion, controller testing, flight testing. 
+  * Design, development, and testing of novel VTOL UAVs.
+
+* Jan., 2019 - Dec, 2020: Control Engineer
+  * EndureAir Systems, Kanpur, India.
+  * Co-developer of NAAVIK autopilot for unmanned helicopters.
+  * Design, development, and testing of novel VTOL UAVs.
 
 * Summer, 2013: Intern
-  * Instrumentation and Applied Physics, Indian Institute of Science, Bangalore
-  * Duties included: Improving SNR of an Atomic Force Microscope
-  * Supervisor: Dr. G. R. Jayanth
+  * Instrumentation and Applied Physics, Indian Institute of Science, Bangalore.
+  * Duties included: Improving SNR of an Atomic Force Microscope.
+  * Supervisor: Dr. G. R. Jayanth.
 
 Undergraduate projects
 ======
 * Spring, 2013: Biomedical instrumentation project
-  * Instrumentation and Applied Physics, Indian Institute of Science, Bangalore
-  * Main theme of the project: Non-contact apnoea detection based on infrared-based proximity sensors
+  * SJCE, Mysore.
+  * Main theme of the project: Non-contact apnoea detection based on infrared-based proximity sensors.
 
 * Spring, 2014: Final year project
   * SJCE, Mysore
@@ -79,6 +89,6 @@ Other accomplishments
 * Finished fourth in the 2017 Inter IIT Cultural Meet in the singing event as well as overall
 * Outstanding teaching assistantship (TA) award from IIT Kanpur for the graduate course on Nonlinear Systems (EE651) during Fall 2018-19
 
-**_A pdf version of this CV is available [here](http://mahathi1992.github.io/files/Awesome_CV.pdf)._**
+**_A pdf version of this CV is available [here](http://mahathi1992.github.io/files/Mahathi_Resume_Final.pdf)._**
 
 
