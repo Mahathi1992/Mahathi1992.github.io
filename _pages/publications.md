@@ -14,10 +14,17 @@ You can also find the following articles on [my Google Scholar profile](https://
 Accepted/Under review
 =====
 
-* Bhargavapuri, M., Sahoo, S.R. and Kothari, M., "Global Attitude Stabilization using Pseudo-Targets", _arXiv preprint [arXiv:1811.01924](https://arxiv.org/pdf/1811.01924.pdf)_
-	
-	_Abstract_- The topological obstructions on the attitude space of a rigid body make global asymptotic stabilization impossible using continuous state-feedback. This paper presents novel algorithms to overcome such topological limitations and achieve arbitrary attitude maneuvers with only continuous, memory-less state-feedback. We first present nonlinear control laws using both rotation matrices and quaternions that give rise to one almost globally asymptotically stabilizable equilibrium along with a nowhere dense set of unstable equilibria. The unstable equilibria are uniquely identified in the attitude error space. Pseudo-targets are then designed to make the controller believe that the attitude error is within the region of attraction of the stable equilibrium. Further, the pseudo-target ensures that maximum control action is provided to push the closed-loop system toward the stable equilibrium. The proposed algorithms are validated using both numerical simulations and experiments to show their simplicity and effectiveness.
+<!-- blank line -->
+----
+<!-- blank line -->
 
+Publications
+=====
+
+##2022
+
+* Bhargavapuri, M., Sahoo, S.R. and Kothari, M., "PAGAL: Pseudo Attitude error Generation ALgorithm for attitude stabilization from arbitrary initial states", _in Proceedings of the 2022 IEEE Conference on Control Technology and Applications (CCTA)_, Trieste, Italy, 2022, pp. 185-190, doi: 10.1109/CCTA49430.2022.9966010
+	
 	<!-- blank line -->
 	<figure class="video_container">
 		<video style="width:100%" controls="true" allowfullscreen="true" poster="http://mahathi1992.github.io/files/thumb_pitchflip.png">
@@ -26,12 +33,9 @@ Accepted/Under review
 	</figure>
 	<!-- blank line -->
 
-<!-- blank line -->
-----
-<!-- blank line -->
+## 2021
+* Bhargavapuri, M. and Parwana, H., "A Novel Quaternion-based Nonlinear Dynamic Inversion for Rigid Body Control", _in Proceedings of the 2021 Seventh Indian Control Conference (ICC)_, Mumbai, India, 2021, pp. 323-328, doi: 10.1109/ICC54714.2021.9703121
 
-Publications
-=====
 ## 2020
 
 * [[Pre-print]](https://arxiv.org/pdf/2006.15686.pdf) Kumar, R., Bhargavapuri, M., Deshpande, A. M, Sridhar, S., Cohen, K, and Kumar, M., "Quaternion Feedback Based Autonomous Control of a Quadcopter UAV with Thrust Vectoring Rotors," _in Proceedings of the 2020 American Control Conference (ACC)_, pp. 3828-3833, doi: 10.23919/ACC45564.2020.9147794
