@@ -25,7 +25,7 @@ Skills
 * Autopilot development
   * PX4
   * Ardupilot
-* ROS, Matlab, Simulink, C++
+* ROS, Gazebo, Matlab, Simulink, C++
 
 Publications
 ======
@@ -40,12 +40,12 @@ Work experience
   * Research and project management responsibilities.
   * Research focus on formal methods, reachability analysis, and safety for drones. 
 
-* Jan., 2020 - Dec, 2021: Control Systems Team Lead
+* Jan., 2020 - Dec, 2020: Control Systems Team Lead
   * ZMotion Autonomous Systems, Bengaluru, India.
   * Co-developer of propietary autopilot inclduing sensor fusion, controller testing, flight testing. 
-  * Design, development, and testing of novel VTOL UAVs.
+  * Design, development, and testing of UAVs.
 
-* Jan., 2019 - Dec, 2020: Control Engineer
+* Jan., 2019 - Dec, 2019: Control Engineer
   * EndureAir Systems, Kanpur, India.
   * Co-developer of NAAVIK autopilot for unmanned helicopters.
   * Design, development, and testing of novel VTOL UAVs.
